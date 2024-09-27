@@ -36,5 +36,4 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 * Out of these catboost, random forest and Logistic Regression were top 3
 * The conclusion were made using classification metrics. roc curve and auc score
 
-* You can also check out the report for more info [Click Here to See Report](https://github.com/kumar-shashank/Rainfall_Prediction-Using-ML_Flask/blob/master/Report.pdf)
 
